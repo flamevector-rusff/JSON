@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Алекс Вайс",
+    "age": 24,
+    "face": "Timothée Chalamet",
+    "player": "Admin"
+  },
+  {
+    "name": "Маша Иванова",
+    "age": 19,
+    "face": "Zendaya",
+    "player": "User"
+  }
+]
