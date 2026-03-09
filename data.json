@@ -11,4 +11,10 @@
     "face": "Zendaya",
     "player": "User"
   }
+    {
+    "name": "Алекс Вайс",
+    "age": 24,
+    "face": "Timothée Chalamet",
+    "player": "Admin"
+  },
 ]
